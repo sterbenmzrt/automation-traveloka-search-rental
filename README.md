@@ -20,3 +20,9 @@ Usage:
 
 - /BaseWebDriver this is constructor for running the test and initiate chromewebdriver
 - /CarsTest this is file test for running test in page Cars
+
+How to run:
+- clone this repo
+- reload dependency maven
+- go to test file
+- run
